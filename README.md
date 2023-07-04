@@ -9,7 +9,7 @@
 
 <h3 align="left">❇️ About Me:</h3>
 
-💻 I’m currently working on a portfolio website using MUI, React, and ThreeJS
+💻 I’m currently working on a dashboard that acts as a portfolio tracker for your Metamask using NextJS, Typescript, and Tailwind CSS
 
 💥 Ask me anything about the blockchain 
 
